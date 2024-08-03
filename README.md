@@ -11,3 +11,4 @@
 - Ownership
 - Borrowing
 - Slice type
+- Structs
