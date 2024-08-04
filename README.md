@@ -12,3 +12,4 @@
 - Borrowing
 - Slice type
 - Structs
+- Methods
