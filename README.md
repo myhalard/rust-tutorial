@@ -13,3 +13,4 @@
 - Slice type
 - Structs
 - Methods
+- Enums
