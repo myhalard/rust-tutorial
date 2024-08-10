@@ -14,3 +14,4 @@
 - Structs
 - Methods
 - Enums
+- Vectors
