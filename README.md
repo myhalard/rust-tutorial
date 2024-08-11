@@ -15,3 +15,4 @@
 - Methods
 - Enums
 - Vectors
+- Strings
