@@ -16,3 +16,4 @@
 - Enums
 - Vectors
 - Strings
+- Hashmaps
